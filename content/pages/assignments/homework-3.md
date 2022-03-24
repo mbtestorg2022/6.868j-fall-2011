@@ -40,6 +40,6 @@ Take a look at the ﬁrst 500 entries in the [OpenMind](http://p2pfoundation.net
 
 3For example, they share some of the same objects, properties or relations.
 
-4If you don't understand these terms, see: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Sowa, John. ["The Challenge of Knowledge Soup" (PDF)](http://www.jfsowa.com/pubs/challenge.pdf). _jfsowa.com_. Explain any additional missing background knowledge that was relevant to your inference.
+4If you don't understand these terms, see: Sowa, John. ["The Challenge of Knowledge Soup" (PDF)](http://www.jfsowa.com/pubs/challenge.pdf). _jfsowa.com_. Explain any additional missing background knowledge that was relevant to your inference.
 
 [« Back to assignments]({{< baseurl >}}/pages/assignments)

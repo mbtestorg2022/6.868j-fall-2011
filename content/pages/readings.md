@@ -84,7 +84,7 @@ What drives people to act? Where do people acquire their original goals?
 Optional
 --------
 
-Hobbs, Jerry R. and Andrew Gordon. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Goals in a formal theory of commonsense pychology." (PDF)](http://www.isi.edu/~hobbs/goals-fois-may10.pdf) Proceedings of the 6th International Conference on Formal Ontology in Information Systems (FOIS-2010), Toronto, Canada, May 11-14, 2010.  
+Hobbs, Jerry R. and Andrew Gordon. ["Goals in a formal theory of commonsense pychology." (PDF)](http://www.isi.edu/~hobbs/goals-fois-may10.pdf) Proceedings of the 6th International Conference on Formal Ontology in Information Systems (FOIS-2010), Toronto, Canada, May 11-14, 2010.  
 Hobbs and Gordon explain a technique for modeling folk theories of intentional behavior. Introduces the notion of the top-level "Thrive" goal.
 
 
@@ -113,7 +113,7 @@ Layers of Mental Activities
 {{< tdopen >}}
 
 
-Schwartz, Barry. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Pitfalls on the Road to the Psychology of Hope." (PDF)](http://www.swarthmore.edu/SocSci/bschwar1/pitfalls.pdf) In _The Science of Optimism and Hope_. Edited by J. Gillham. Templeton Foundation Press. 2000. pp.399-412.  
+Schwartz, Barry. ["Pitfalls on the Road to the Psychology of Hope." (PDF)](http://www.swarthmore.edu/SocSci/bschwar1/pitfalls.pdf) In _The Science of Optimism and Hope_. Edited by J. Gillham. Templeton Foundation Press. 2000. pp.399-412.  
 Ethical dilemmas for positive psychology—do they have the right to meddle with people's top-level goals? ... or to induce happiness?
 
 
@@ -153,7 +153,7 @@ Model–6 and the layered critic-selector architecture.
 Optional
 --------
 
-Langley, Pat, John E. Laird, and Seth Rogers. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Cognitive Architectures: Research Issues and Challenges](http://www.isle.org/~langley/papers/cogarch.cogsys08.pdf). _Cognitive Systems Research_ 10 no. 2 (2009).  
+Langley, Pat, John E. Laird, and Seth Rogers. [Cognitive Architectures: Research Issues and Challenges](http://www.isle.org/~langley/papers/cogarch.cogsys08.pdf). _Cognitive Systems Research_ 10 no. 2 (2009).  
 Discusses current cognitive architectures that exist for organizing large artificial intelligence projects. Also, shared properties of cognitive architectures as well future directions for what is needed is discussed—a rare overview of a very complicated field. This paper was referenced in class when Minsky was wondering if there is a good overview of different types of representations and what problems they are both good and, more importantly, bad at solving.
 
 
@@ -175,10 +175,10 @@ Common Sense
 Optional
 --------
 
-Singh, Push, Ian Eslick, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Computing Commonsense." (PDF)](http://web.media.mit.edu/~walter/bttj/Paper22Pages201-210.pdf) _BT Technology Journal_ 22 no. 4 (2004).  
+Singh, Push, Ian Eslick, et al. ["Computing Commonsense." (PDF)](http://web.media.mit.edu/~walter/bttj/Paper22Pages201-210.pdf) _BT Technology Journal_ 22 no. 4 (2004).  
 An Overview of How the Commonsense Computing Approach to Building Commonsense Reasoning Systems.
 
-Mueller, Erik T. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Automating Commonsense Reasoning using Event Calculus." (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.73.2771&rep=rep1&type=pdf) _Communications of the ACM_ 52 no. 1 (2009).  
+Mueller, Erik T. ["Automating Commonsense Reasoning using Event Calculus." (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.73.2771&rep=rep1&type=pdf) _Communications of the ACM_ 52 no. 1 (2009).  
 Event Calculus is an extention of First Order logic designed for effectively reasoning about events. While still committed to logical inference, this is a well defined approach to commonsense reasoning and Mueller is very clear communicator.
 
 [Open Mind Commons](http://p2pfoundation.net/Open_Mind_Commons)  
@@ -249,7 +249,7 @@ Optional
 Dennett, Daniel. "The Origin of Selves." _Cogito_ 3 (1989): pp. 163-173.  
 Short, easy to read discussion of philisophical notions of selfhood, the boundaries of selves, a discussion of multiple selves and multiple personality disorder.
 
-Kosslyn, Stephen. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["On the Evolution of Human Motivation: Social Prosthetics."](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.495.7948) In _Evolutionary Cognitive Neuroscience_. Edited by S.M. Platek, T.K. Shackelford, and J.P. Keenan. MIT Press, 2006.  
+Kosslyn, Stephen. ["On the Evolution of Human Motivation: Social Prosthetics."](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.495.7948) In _Evolutionary Cognitive Neuroscience_. Edited by S.M. Platek, T.K. Shackelford, and J.P. Keenan. MIT Press, 2006.  
 Suggesting "self models" may extend in scope to include other people. Interesting and uplifiting paper by Harvard vision psychologist.
 
 

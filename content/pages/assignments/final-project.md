@@ -25,6 +25,6 @@ You must submit a 1–2 page proposal about what you or your group plans to do f
 For guidance about how to clearly communicate difficult ideas, please refer to this advice from Michael Covington:
 
 *   Covington, Michael. "[How to Write More Clearly, Think More Clearly, and Learn Complex Material More Easily." (PDF)](http://www.ai.uga.edu/mc/WriteThinkLearn.pdf) _How to Write More Clearly, Think More Clearly, and Learn Complex Material More Easily_. 2009.
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Covington, Michael. [How to Write a Term Paper or Thesis. (PDF)](http://www.ai.uga.edu/mc/howtowrite/howtowrite.pdf) _How to Write_. 2011.
+*   Covington, Michael. [How to Write a Term Paper or Thesis. (PDF)](http://www.ai.uga.edu/mc/howtowrite/howtowrite.pdf) _How to Write_. 2011.
 
 [« Back to assignments]({{< baseurl >}}/pages/assignments)
